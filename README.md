@@ -4,7 +4,7 @@
 
 I am a **Machine Learning Engineer** with hands-on experience in developing, training, and deploying **machine learning** and **deep learning** models.  
 I specialize in **Computer Vision (CV)**, **Natural Language Processing (NLP)**, and **predictive analytics**, with strong knowledge of the full ML lifecycle — from **data preprocessing and analysis** to **model optimization and deployment**.  
-Passionate about applying AI to solve real-world problems and continuously learning cutting-edge technologies.
+
 
 ---
 
