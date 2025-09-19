@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://www.google.com/search?q=https://github.com/youseflasheen/youseflasheen/raw/main/Navy%2520Blue%2520Geometric%2520Technology%2520LinkedIn%2520Banner(1).png" alt="Yousef Lasheen Banner"/>
-</p>
-
 <h1 align="center">Hi there, I'm Yousef Lasheen 👋</h1>
 
 <p align="center">
@@ -39,34 +35,13 @@ Optimized a deep learning pipeline by experimenting with various neural network 
 
 🛠️ My Tech Stack
 Languages & Databases
-<p align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="python"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="sql"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="c++"/>
-</p>
+Python, SQL, Java, C++
 
 ML/DL Frameworks & Libraries
-<p align="left">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Keras-D00000%3Fstyle%3Dfor-the-badge%26logo%3Dkeras%26logoColor%3Dwhite" alt="keras"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="scikit-learn"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="pandas"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Numpy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" alt="numpy"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Apache_Spark-E25A1C%3Fstyle%3Dfor-the-badge%26logo%3Dapache-spark%26logoColor%3Dwhite" alt="spark"/>
-</p>
+TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, NumPy, Apache Spark
 
 Development, DevOps & Cloud
-<p align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-E44C30%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="git"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="docker"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kubernetes-326CE5%3Fstyle%3Dfor-the-badge%26logo%3Dkubernetes%26logoColor%3Dwhite" alt="kubernetes"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flask-000000%3Fstyle%3Dfor-the-badge%26logo%3Dflask%26logoColor%3Dwhite" alt="flask"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Amazon_AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="aws"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Microsoft_Azure-0089D6%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-azure%26logoColor%3Dwhite" alt="azure"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Google_Cloud-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-cloud%26logoColor%3Dwhite" alt="gcp"/>
-</p>
+Git, Docker, Kubernetes, Flask, AWS, Microsoft Azure, Google Cloud Platform
 
 🚀 My Projects
 <details>
@@ -99,14 +74,8 @@ Built a speech recognition model for 5 key commands, securing over 95% accuracy 
 <a href="https://github.com/youseflasheen/speech-recognition">View Code</a>
 </details>
 
-📊 My GitHub Stats
-<p align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyouseflasheen%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyouseflasheen%26layout%3Dcompact%26langs_count%3D8%26theme%3Dtokyonight"/>
-</p>
-
 📫 Let's Connect!
 <p align="center">
-<a href="http://www.linkedin.com/in/yousef-lashin" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yousef Lashin's LinkedIn" height="40" width="50" /></a>
-<a href="mailto:youseflasheen211@gmail.com" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="youseflasheen211@gmail.com" height="40" width="50" /></a>
+<a href="http://www.linkedin.com/in/yousef-lashin" target="blank">LinkedIn</a> |
+<a href="mailto:youseflasheen211@gmail.com" target="blank">Email</a>
 </p>
